@@ -1,0 +1,10 @@
+.banner-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.centered{
+  text-align: center;
+}
